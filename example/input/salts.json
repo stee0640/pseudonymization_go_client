@@ -1,0 +1,15 @@
+{
+    "storage_key_salt": "c0dd0a2821e72ce5509890aee6c9dd12",
+    "salts": [
+      {
+        "project_id": "1",
+        "shorthand_name": "project1",
+        "encrypted_salt": "45ced854475a2067cc74d50f083c218601f48dfa15dfbc4829e1c1f521a80bd84f2b8516d3deecc951adde7b68017486ba7f6c334545c60ab7ff5fea"
+      },
+      {
+        "project_id": "2",
+        "shorthand_name": "project2",
+        "encrypted_salt": "0192232be148669136dcded4f127f5c5fa115003126310abf4741596770979cebb1d7237337c0a9ae366d68d1395de87995b3e7038506153f78ebc8c"
+      }
+    ]
+  }
